@@ -1,0 +1,16 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "starting",
+  "main": "first.js",
+  "type": "module",
+  "scripts": {
+    "run": "node first.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nishant",
+  "license": "ISC",
+  "dependencies": {
+    "url": "^0.11.0"
+  }
+}
